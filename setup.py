@@ -21,7 +21,6 @@ setup(
     ],
     keywords=['testing', 'logging', 'example'],
     python_requires='>=3.6',
-    install_requires=['ipromise>=1.0'],
     setup_requires=[],
     tests_require=[],
 )
