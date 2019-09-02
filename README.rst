@@ -1,7 +1,7 @@
 ================
-default_pickling
+Default Pickling
 ================
 .. image:: https://badge.fury.io/py/default_pickling.svg
     :target: https://badge.fury.io/py/default_pickling
 
-A Python base class that provides default pickling and copying method implementations for use in inheritance.
+This repository provides a Python base class that implements default pickling and copying method implementations for use in inheritance.
