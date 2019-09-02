@@ -3,12 +3,15 @@ from setuptools import find_packages, setup
 
 setup(
     name='default_pickling',
-    version='0.1',
-    description='A base class that provides default pickling and copying method implementations for use in inheritance.',
+    version='0.2',
+    description=(
+        'A base class that provides default pickling and copying method '
+        'implementations for use in inheritance.'),
     author='Neil Girdhar',
     author_email='mistersheik@gmail.com',
     url='https://github.com/NeilGirdhar/default_pickling',
-    download_url='https://github.com/neilgirdhar/default_pickling/archive/0.1.tar.gz',
+    download_url=(
+        'https://github.com/neilgirdhar/default_pickling/archive/0.2.tar.gz'),
     packages=find_packages(),
     classifiers=[
         "Development Status :: 5 - Production/Stable",
