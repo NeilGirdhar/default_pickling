@@ -14,7 +14,7 @@ setup(
         "https://github.com/NeilGirdhar/default_pickling/issues",
         "Source Code": "https://github.com/NeilGirdhar/default_pickling",
     },
-    download_url = "https://pypi.python.org/pypi/default_pickling",
+    download_url="https://pypi.python.org/pypi/default_pickling",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 5 - Production/Stable",
